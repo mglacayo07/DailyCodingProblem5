@@ -15,3 +15,4 @@ def cons(a, b):
 
 Implement `car` and `cdr`.
 
+![](https://github.com/mglacayo07/DailyCodingProblem5/blob/main/preview.png)
