@@ -15,4 +15,10 @@ def cons(a, b):
 
 Implement `car` and `cdr`.
 
+# Technologies
+
+* Python 3.8
+
+# Preview
+
 ![](https://github.com/mglacayo07/DailyCodingProblem5/blob/main/preview.png)
